@@ -76,7 +76,7 @@ for с оператором break.<br>Для этого (на выбор) мож
 ### Неделя 3. Кортежи и обработка пар значений. Работа с файлами
 
 * Кортежи, функции zip() и enumerate()
-* Практикум 3.1: кортежи и работа с вложенными структурами ([practice03-01.ipynb](https://github.com/allatambov/PyAll26/blob/main/practice03-01.ipynb))
+* Практикум 3.1: кортежи и работа с вложенными структурами ([practice03-01.ipynb](https://github.com/allatambov/PyAll26/blob/main/practice03-01.ipynb)), решения [practice03-01-solutions.ipynb](https://github.com/allatambov/PyAll26/blob/main/practice03-01-solutions.ipynb)
 * Практикум 3.2: работа с файлами ([practice03-02.ipynb](https://github.com/allatambov/PyAll26/blob/main/practice03-02.ipynb))
 
 Дополнительно (для желающих):
