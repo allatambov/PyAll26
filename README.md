@@ -20,3 +20,4 @@
 * [Лабораторная №1. Условные конструкции и цикл while](https://github.com/allatambov/PyAll26/blob/main/l01.md)
 * [Неделя 3. Кортежи и обработка пар значений. Работа с файлами](https://github.com/allatambov/PyAll26/blob/main/week03.md)
 * [Лабораторная №2. Методы на списках и строках](https://github.com/allatambov/PyAll26/blob/main/l02.md)
+* [Неделя 4. Словари и методы на словарях](https://github.com/allatambov/PyAll26/blob/main/week04.md)
