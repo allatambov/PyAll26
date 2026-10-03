@@ -21,3 +21,5 @@
 * [Неделя 3. Кортежи и обработка пар значений. Работа с файлами](https://github.com/allatambov/PyAll26/blob/main/week03.md)
 * [Лабораторная №2. Методы на списках и строках](https://github.com/allatambov/PyAll26/blob/main/l02.md)
 * [Неделя 4. Словари и методы на словарях](https://github.com/allatambov/PyAll26/blob/main/week04.md)
+* [Лабораторная №3. Функции](https://github.com/allatambov/PyAll26/blob/main/l03.md)
+* 
