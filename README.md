@@ -23,4 +23,5 @@
 * [Неделя 4. Словари и методы на словарях](https://github.com/allatambov/PyAll26/blob/main/week04.md)
 * [Лабораторная №3. Функции](https://github.com/allatambov/PyAll26/blob/main/l03.md)
 * [Неделя 5. Словари и формат JSON](https://github.com/allatambov/PyAll26/blob/main/week05.md)
+* [Неделя 6. Запросы к API. Введение в парсинг HTML](https://github.com/allatambov/PyAll26/blob/main/week06.md)
   
