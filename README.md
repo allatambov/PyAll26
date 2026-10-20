@@ -29,11 +29,17 @@
 
 ### Домашнее задание 1 (дедлайн 05.11.2026 23:59)
 
-* файл c заданием ([hw01.ipynb](https://github.com/allatambov/PyAll26/blob/main/hw01.ipynb))
-* файл с решениями загружать на [Dropbox](https://www.dropbox.com/request/7tu3ka8qx9pws4qzvf3y)
+* ipynb-файл c заданием: [hw01.ipynb](https://github.com/allatambov/PyAll26/blob/main/hw01.ipynb)
+* ipynb-файл с решениями загружать на [Dropbox](https://www.dropbox.com/request/7tu3ka8qx9pws4qzvf3y)
+
+Алгоритм сдачи: скачать ipynb-файл с заданиями, загрузить в Jupyter/Colab, добавить свои решения, сохранить изменения, скачать файл с решениями, загрузить по ссылке на Dropbox (аккаунт Dropbox создавать не надо, просто выбираете файл на компьютере и добавляете).
 
 ### Домашнее задание 2 (позже)
 
 * файл c заданием (hw02.ipynb)
 * файл с решениями загружать на Dropbox
-  
+
+## Для тренировки
+
+* Модуль 1: [train01.ipynb](https://github.com/allatambov/PyAll26/blob/main/train01.ipynb)
+* Модуль 2: train02.ipynb
