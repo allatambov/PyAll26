@@ -24,4 +24,16 @@
 * [Лабораторная №3. Функции](https://github.com/allatambov/PyAll26/blob/main/l03.md)
 * [Неделя 5. Словари и формат JSON](https://github.com/allatambov/PyAll26/blob/main/week05.md)
 * [Неделя 6. Запросы к API. Введение в парсинг HTML](https://github.com/allatambov/PyAll26/blob/main/week06.md)
+
+## Домашние задания
+
+### Домашнее задание 1 (дедлайн 05.11.2026 23:59)
+
+* файл c заданием ([hw01.ipynb](https://github.com/allatambov/PyAll26/blob/main/hw01.ipynb))
+* файл с решениями загружать на [Dropbox](https://www.dropbox.com/request/7tu3ka8qx9pws4qzvf3y)
+
+### Домашнее задание 2 (позже)
+
+* файл c заданием (hw02.ipynb)
+* файл с решениями загружать на Dropbox
   
