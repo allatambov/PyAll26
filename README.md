@@ -25,6 +25,7 @@
 * [Неделя 5. Словари и формат JSON](https://github.com/allatambov/PyAll26/blob/main/week05.md)
 * [Неделя 6. Запросы к API. Введение в парсинг HTML](https://github.com/allatambov/PyAll26/blob/main/week06.md)
 * [Неделя 7. Парсинг HTML](https://github.com/allatambov/PyAll26/blob/main/week07.md)
+* [Лабораторная №4. Массивы NumPy](https://github.com/allatambov/PyAll26/blob/main/l04.md)
 
 ## Домашние задания
 
