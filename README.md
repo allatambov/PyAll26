@@ -26,6 +26,7 @@
 * [Неделя 6. Запросы к API. Введение в парсинг HTML](https://github.com/allatambov/PyAll26/blob/main/week06.md)
 * [Неделя 7. Парсинг HTML](https://github.com/allatambov/PyAll26/blob/main/week07.md)
 * [Лабораторная №4. Массивы NumPy](https://github.com/allatambov/PyAll26/blob/main/l04.md)
+* [Недели 8-9. Датафреймы pandas: работа с таблицами](https://github.com/allatambov/PyAll26/blob/main/week08-09.md)
 
 ## Домашние задания
 
